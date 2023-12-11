@@ -24,4 +24,8 @@ body {
   
   .sparkle{
     /* mix-blend-mode:luminosity */
+  }h1{
+    color: whitesmoke;
+    margin-top: 0%;
+    text-align: center;
   }
